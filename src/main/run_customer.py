@@ -43,7 +43,7 @@ def main():
             formatted_res.append(formatted_res_json)
 
     # write to file
-    with open(r'./output/output.json', 'w') as fp:
+    with open(r'../../output/output.json', 'w') as fp:
         fp.write('[')
         fp.write(','.join(str(res).replace("\'", "\"") for res in formatted_res))
         fp.write(']')

@@ -1,9 +1,8 @@
-import time
-
 import grpc
 
-import bank_pb2
-import bank_pb2_grpc
+from src.build import bank_pb2
+from src.build import bank_pb2_grpc
+
 
 class Customer:
     def __init__(self, id, events):

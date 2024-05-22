@@ -6,8 +6,8 @@ import json
 import sys
 
 import grpc
-import bank_pb2
-import bank_pb2_grpc
+from src.build import bank_pb2
+from src.build import bank_pb2_grpc
 
 
 class Branch(bank_pb2_grpc.BankServicer):
