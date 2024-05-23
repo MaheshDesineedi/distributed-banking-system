@@ -4,6 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Multi-threading](https://img.shields.io/badge/Multi--threading-007ACC?logo=windows-terminal&logoColor=white)
 ![Consistency](https://img.shields.io/badge/Consistency-FF6F00?logo=databricks&logoColor=white)
+![Concurrency](https://img.shields.io/badge/Concurrency-FFA500?logo=concurrency&logoColor=white)
 ![Distributed Transactions](https://img.shields.io/badge/Distributed%20Transactions-4DB33D?logo=redis&logoColor=white)
 
 
