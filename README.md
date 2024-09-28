@@ -48,10 +48,10 @@ Step-by-step instructions on how to set up and run the project.
 ### Clone the repository
 ```bash
 
-git clone https://github.com/MaheshDesineedi/banking-client-consistency
+git clone https://github.com/MaheshDesineedi/distributed-banking-system
 
 # Change to the project directory
-cd banking-client-consistency
+cd distributed-banking-system
 
 ```
 
